@@ -2,8 +2,10 @@
 
 部署ssr：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ############################################################################
+
 部署v2ray:bash <(curl -s -L https://git.io/v2ray.sh)
 ############################################################################
+
 安装openvpn：wget https://raw.githubusercontent.com/wggwcn/centos7-shadowsock/master/openvpn.sh && chmod +x openvpn.sh && bash openvpn.sh
 如果出现这个提示执行以下代码：yum -y install wget
 
